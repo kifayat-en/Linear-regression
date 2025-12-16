@@ -4,7 +4,7 @@
 
 **MAE — Mean Absolute Error**
 **MAE = average(|actual − predicted|)**
-`. Tells on average how much your prediction is wrong.        
+`. Tells on average how much your prediction is wrong.`        
  . Uses absolute difference.       
 
 Example     
