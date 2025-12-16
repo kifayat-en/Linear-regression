@@ -1,4 +1,5 @@
 # Linear-regression
+**Linear regression is a fundamental statistical and machine learning method that models the relationship between variables by fitting a straight line (or hyperplane for multiple variables) to data, aiming to predict a dependent variable (outcome) from one or more independent variables (predictors). It finds the "line of best fit" that minimizes errors, allowing for predictions, such as forecasting sales from advertising spend or exam performance from study time, with simple regression having one predictor and multiple regression having several.**
 
 `Multiple Linear Regresssion with graphs and LR metrics`
 
