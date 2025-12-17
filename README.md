@@ -69,8 +69,8 @@ RMSE = √100 = 10
 **Formula: -∞ to 1**               
 **R² = 1 - (SSE / SST) Sum of Squared Errors,  Total Sum of Squares**    
 
-Tells how much of data variation your model explains       
-1 = perfect model            
+Tells how much of data variation your model explains.       
+1 = perfect model.            
 
 **Example**          
 R²        |  Meaning           
@@ -87,6 +87,24 @@ R²        |  Meaning
 `Can be misleading with overfitting`       
 <hr>
 
+**Adjusted R²**
+
+**Formula: (1-R2)*(n-1) / (n-1-k)**        
+*n-> total rows, k-> total features (columns)*     
+
+Improved version of R².        
+Penalizes unnecessary features.         
+
+*Why needed?*        
+Adding more features:     
+R² → always increases.       
+Adjusted R² → increases only if feature is useful.        
+
+<hr>
+MAE → “average mistake”     
+MSE → “big errors hurt more”       
+RMSE → “real-world error size”        
+R² → “how good model explains data”                
 
  
 
