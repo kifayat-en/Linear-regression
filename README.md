@@ -72,12 +72,12 @@ RMSE = √100 = 10
 Tells how much of data variation your model explains       
 1 = perfect model            
 
-**Example**
-R²	         Meaning           
-0.90	       Model explains 90% of data          
-0.50	       Explains 50%              
-0	          Same as predicting mean            
-<0	         Worse than guessing        
+**Example**          
+R²->         Meaning           
+0.90->	      Model explains 90% of data          
+0.50->	      Explains 50%              
+0->	         Same as predicting mean            
+<0->         Worse than guessing        
 
 **Advantages:**    
 `Very popular`      
