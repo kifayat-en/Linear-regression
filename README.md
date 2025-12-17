@@ -64,6 +64,31 @@ RMSE = √100 = 10
 `Sensitive to outliers`      
 <hr>
 
+**R² Score — Coefficient of Determination**        
+
+**Formula: -∞ to 1**               
+**R² = 1 - (SSE / SST) Sum of Squared Errors,  Total Sum of Squares**    
+
+Tells how much of data variation your model explains       
+1 = perfect model            
+
+**Example**
+R²	  Meaning           
+0.90	Model explains 90% of data          
+0.50	Explains 50%              
+0	    Same as predicting mean            
+<0	  Worse than guessing        
+
+**Advantages:**    
+`Very popular`      
+`Easy comparison`     
+
+**Disadvantages:**     
+`Can be misleading with overfitting`       
+<hr>
+
+
+ 
 
 
 
