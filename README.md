@@ -101,10 +101,10 @@ R² → always increases.
 Adjusted R² → increases only if feature is useful.        
 
 <hr>
-MAE → “average mistake”     
-MSE → “big errors hurt more”       
-RMSE → “real-world error size”        
-R² → “how good model explains data”                
+MAE → “average mistake”                
+MSE → “big errors hurt more”                         
+RMSE → “real-world error size”                      
+R² → “how good model explains data”                               
 
  
 
