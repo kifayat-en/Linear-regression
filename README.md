@@ -42,7 +42,30 @@ MSE = (4 + 100)/2 = 52
 
 **Disadvantages:**        
 `Units become squared`         
-`Hard to interpret`           
+`Hard to interpret`
+<hr>
+
+**RMSE — Root Mean Squared Error** 
+
+**Formula: RMSE = √MSE**                 
+
+Square root of MSE.       
+Brings error back to original units.        
+
+**Example**
+If MSE = 100
+RMSE = √100 = 10
+
+**Advantages:**             
+`Same unit as target`        
+`Penalizes big errors`       
+
+**Disadvantages:**          
+`Sensitive to outliers`      
+<hr>
+
+
+
 
 
 
